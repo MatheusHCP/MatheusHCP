@@ -25,7 +25,7 @@
 
 ### WeConnectWorld
 
-WeConnectWorld is a React Native application focused on the Android platform. It is already available on the [Google Play Store](link_weconnect).
+WeConnectWorld is a React Native application focused on the Android platform. It is already available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.weconnectworld).
 
 ## Contact
 

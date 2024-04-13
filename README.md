@@ -18,8 +18,10 @@
 - 💻 .NET 8, EntityFramework, JWT, DDD, Clean Architecture
 - 🌐 Web API 
 ### Front-End
-- 🚀 JavaScript, React Native, React JS, Angular, UX/UI
+- 🚀 JavaScript, React JS, Angular, UX/UI
 - 🧪 Unit testing with Jest and React Native Testing Library
+### Mobile
+- 📱 React Native
 
 ## Projects in Production
 

@@ -33,5 +33,4 @@ WeConnectWorld is a React Native application focused on the Android platform. It
 
 Feel free to get in touch! I am always open to collaborations and new projects.
 
-- 📧 Email: [mat_pereiraa@hotmail.com](mailto:mat_pereiraa@hotmail.com)
 - 🔗 LinkedIn: [MatheusHCP](https://www.linkedin.com/in/matheushcp/)

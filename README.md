@@ -15,7 +15,7 @@
 - NoSQL
 
 ### Back-end
-- 💻 .NET 8, EntityFramework, JWT, DDD, Clean Architecture
+- 💻 .NET, EntityFramework, JWT, DDD, Clean Architecture
 - 🌐 Web API 
 ### Front-End
 - 🚀 JavaScript, React JS, Angular, UX/UI

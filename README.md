@@ -25,10 +25,6 @@
 
 ## Projects in Production
 
-### WeConnectWorld
-
-WeConnectWorld is a React Native application focused on the Android platform. It is already available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.weconnectworld).
-
 ## Contact
 
 Feel free to get in touch! I am always open to collaborations and new projects.

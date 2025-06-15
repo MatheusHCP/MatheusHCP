@@ -4,7 +4,6 @@
 ## Experience
 
 - 🏥 Working at Unimed Presidente Prudente
-- 🚀 Developer of the WeConnectWorld application (Android)
 
 ## Skills
 
@@ -22,8 +21,6 @@
 - 🧪 Unit testing with Jest and React Native Testing Library
 ### Mobile
 - 📱 React Native
-
-## Projects in Production
 
 ## Contact
 

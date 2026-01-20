@@ -3,7 +3,7 @@
 
 ## Experience
 
-- 🏥 Working at Unimed Presidente Prudente
+- 🏥 Working at Wipro.
 
 ## Skills
 

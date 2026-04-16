@@ -3,7 +3,7 @@
 
 ## Experience
 
-- 🏥 Working at Wipro.
+- 🏥 Software Engineer at Wipro, currently contributing at Microsoft
 
 ## Skills
 
